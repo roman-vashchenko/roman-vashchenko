@@ -5,9 +5,10 @@
 
 ###
 
-<h3 align="left">My Stack</h3>
+<p align="left">My Stack</p>
 
 ###
+
 <div align="left">
 </div>
 
