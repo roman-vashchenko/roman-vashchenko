@@ -1,4 +1,4 @@
-<p font-size="30px">Beginner Full-Stack Developer</p>
+Beginner Full-Stack Developer
 ###
 ![Codewars](https://www.codewars.com/users/roman-vashchenko/badges/small)
 
