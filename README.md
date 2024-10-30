@@ -1,4 +1,4 @@
-<h3 align="left">Full-Stack Developer</h3>
+<h3 align="left">Full Stack Developer</h3>
 
 ###
 [![Codewars](https://www.codewars.com/users/roman-vashchenko/badges/small)](https://www.codewars.com/users/roman-vashchenko)
