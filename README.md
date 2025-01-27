@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My Stack</p>
+<p align="left">My stack</p>
 
 ###
 
