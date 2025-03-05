@@ -37,6 +37,7 @@
   <img width="12" />
   <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only-grey.svg" height="40" alt="react-hook-form logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
 ###
